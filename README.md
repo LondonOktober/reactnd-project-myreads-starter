@@ -10,5 +10,4 @@ The Udacity MyReads project is part of the React Nanodegree. In the MyReads proj
 
 ### Acknowledgments
 Base files provided by Udacity: (https://github.com/udacity/reactnd-project-myreads-starter)
-Ackn
 React Resources: (https://reactjs.org/docs/getting-started.html)
